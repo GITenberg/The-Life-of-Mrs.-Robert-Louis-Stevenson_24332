@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26410'
     url: http://www.gutenberg.org/2009/agents/26410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24332#The-Life-of-Mrs.-Robert-Louis-Stevenson
 gutenberg_issued: '2008-01-16'
 gutenberg_type: Text
 identifiers:
