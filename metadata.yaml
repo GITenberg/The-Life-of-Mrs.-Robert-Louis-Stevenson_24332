@@ -1,0 +1,29 @@
+_repo: The-Life-of-Mrs.-Robert-Louis-Stevenson_24332
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanchez, Nellie Van de Grift
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '26410'
+    url: http://www.gutenberg.org/2009/agents/26410
+description: ''
+gutenberg_issued: '2008-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Fanny Van de Grift, 1840-1914'
+- !lcc 'CT'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Marriage'
+- !lcsh 'Biography'
+- !lcsh 'Authors'' spouses -- Biography'
+title: The Life of Mrs. Robert Louis Stevenson
+url: http://www.gutenberg.org/ebooks/24332
